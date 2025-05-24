@@ -45,6 +45,9 @@ Current Sui development faces several challenges:
 - **Environment Management**: Easy switching between mainnet/testnet/localnet
 - **CI/CD Integration**: GitHub Actions and GitLab CI integration
 
+## Demo Video
+
+
 ## 🏗️ Architecture
 
 ```
